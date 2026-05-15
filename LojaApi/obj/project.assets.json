@@ -1451,23 +1451,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\LUANHENRIQUENEUWIRTH\\.nuget\\packages\\": {},
+    "C:\\Users\\MURILODEMATTOSOPIS\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LUANHENRIQUENEUWIRTH\\Downloads\\LojaApi\\LojaApi\\LojaApi.csproj",
+      "projectUniqueName": "C:\\Users\\MURILODEMATTOSOPIS\\Documents\\Avaliacao-api\\LojaApi\\LojaApi.csproj",
       "projectName": "LojaApi",
-      "projectPath": "C:\\Users\\LUANHENRIQUENEUWIRTH\\Downloads\\LojaApi\\LojaApi\\LojaApi.csproj",
-      "packagesPath": "C:\\Users\\LUANHENRIQUENEUWIRTH\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LUANHENRIQUENEUWIRTH\\Downloads\\LojaApi\\LojaApi\\obj\\",
+      "projectPath": "C:\\Users\\MURILODEMATTOSOPIS\\Documents\\Avaliacao-api\\LojaApi\\LojaApi.csproj",
+      "packagesPath": "C:\\Users\\MURILODEMATTOSOPIS\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\MURILODEMATTOSOPIS\\Documents\\Avaliacao-api\\LojaApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\LUANHENRIQUENEUWIRTH\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\MURILODEMATTOSOPIS\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
